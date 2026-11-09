@@ -10,7 +10,7 @@
 - Extract the ZIP and copy its three program files beside `ed8.exe`. If you use SenPatcher, rename its `DINPUT8.dll` first.
 - Play as usual. F8 turns DLSS on or off.
 
-[Releases](https://github.com/petonexus/cold-steel-dlss-releases/releases) - Looking for VR? See [Trails of Cold Steel VR](https://github.com/petonexus/tocs-vr-releases).
+[Releases](https://github.com/petonexus/cold-steel-dlss-releases/releases) - [Nexus Mods](https://www.nexusmods.com/thelegendofheroestrailsofcoldsteel/mods/7) - Looking for VR? See [Trails of Cold Steel VR](https://github.com/petonexus/tocs-vr-releases).
 
 ## What it does
 
