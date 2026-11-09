@@ -1,0 +1,15 @@
+Trails Flat
+Copyright (c) 2026 petonexus
+All rights reserved for the original mod code, packaging, and documentation
+authored by petonexus.
+
+Permission is granted to download, install, and use those original portions
+for personal, non-commercial use with a lawfully obtained PC copy of
+The Legend of Heroes: Trails of Cold Steel. Redistribution, reuploading,
+repackaging, or selling those original portions requires prior written
+permission from petonexus. This permission does not include any game files.
+
+This notice applies only to the original portions identified above. It does
+not limit rights granted by the separate licenses for included third-party
+components or rights available under applicable law. See
+THIRD_PARTY_NOTICES.txt and the licenses/ directory.

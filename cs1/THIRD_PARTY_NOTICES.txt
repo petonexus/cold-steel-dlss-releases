@@ -1,0 +1,14 @@
+Trails Flat - Third-Party Notices
+
+NVIDIA DLSS / NVIDIA NGX SDK v310.9.16.
+This software contains source code provided by NVIDIA Corporation.
+nvngx_dlss.dll and the SDK portions remain subject to the NVIDIA RTX SDKs
+License and Supplement in licenses/NVIDIA-RTX-SDK.txt, independently of this
+mod's terms. Use DLSS only with a compatible NVIDIA GPU. All NVIDIA copyright,
+intellectual-property, use and redistribution restrictions remain applicable.
+
+This fan-made mod is not sponsored or endorsed by NVIDIA Corporation, and is
+not affiliated with the developer or publishers of the game.
+
+SenPatcher and the HD Texture Pack are separate projects and are not included.
+No game assets are included in this package.
