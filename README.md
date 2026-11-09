@@ -1,4 +1,4 @@
-# Trails Flat
+# Cold Steel DLSS
 
 **The same game, cleaner.** Free mod that adds NVIDIA DLSS (DLAA) to Trails of Cold Steel on a normal screen, at your own resolution.
 
@@ -10,7 +10,7 @@
 - Extract the ZIP and copy its three program files beside `ed8.exe`. If you use SenPatcher, rename its `DINPUT8.dll` first.
 - Play as usual. F8 turns DLSS on or off.
 
-[Releases](https://github.com/petonexus/trails-flat-releases/releases) - Looking for VR? See [Trails of Cold Steel VR](https://github.com/petonexus/tocs-vr-releases).
+[Releases](https://github.com/petonexus/cold-steel-dlss-releases/releases) - Looking for VR? See [Trails of Cold Steel VR](https://github.com/petonexus/tocs-vr-releases).
 
 ## What it does
 
@@ -22,9 +22,9 @@
 
 ## Downloads
 
-Download **trails-flat-cs1-0.1.0.zip** from the [latest release](https://github.com/petonexus/trails-flat-releases/releases).
+Download **cold-steel-dlss-cs1-0.1.0.zip** from the [latest release](https://github.com/petonexus/cold-steel-dlss-releases/releases).
 
-SHA-256: `aea8fbb13c276ccd6c25eddd08c8417dc42cbed980d428d98e6862b55d061912`
+SHA-256: `fda478444d6e90a09f5a17f8a1162ad74dfd9b85610aa27f219656e92da7c29a`
 
 **Verify a download.** Compare the SHA-256 of the ZIP (`Get-FileHash <zip>` in PowerShell) with the one on the release page.
 
